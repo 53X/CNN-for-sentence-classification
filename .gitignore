@@ -1,0 +1,8 @@
+/data
+glove_42B_300d.txt
+glove_840B_300d.txt
+mikolov_word2vec.bin
+CNN_RANDOM_SUBJECTIVE.h5
+CNN_MULTICHANNEL_SUBJECTIVITY.h5
+CNN_STATIC_SUBJECTIVITY.h5
+
